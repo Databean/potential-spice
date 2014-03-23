@@ -166,6 +166,7 @@ GameObject:
   - 212: {fileID: 1351889009}
   - 50: {fileID: 1351889007}
   - 61: {fileID: 1351889008}
+  - 114: {fileID: 1351889011}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -180,7 +181,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1351889005}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.49204922, y: 3.41347742, z: 0}
+  m_LocalPosition: {x: -3.60195756, y: 1.14955187, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -190,11 +191,11 @@ Rigidbody2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1351889005}
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: .0500000007
+  m_Mass: 10
+  m_LinearDrag: 1
+  m_AngularDrag: 1
   m_GravityScale: 1
-  m_FixedAngle: 0
+  m_FixedAngle: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -247,6 +248,18 @@ Animator:
   m_ApplyRootMotion: 0
   m_AnimatePhysics: 0
   m_HasTransformHierarchy: 1
+--- !u!114 &1351889011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1351889005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 382edb0ffbe0b6144876745cb9e28b9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  horizontalForce: 20
 --- !u!1 &2132142574
 GameObject:
   m_ObjectHideFlags: 0
@@ -328,6 +341,6 @@ Transform:
   m_GameObject: {fileID: 2132142574}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: .209415555, y: -2.49204898, z: 0}
-  m_LocalScale: {x: 10, y: 1, z: 1}
+  m_LocalScale: {x: 30, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
