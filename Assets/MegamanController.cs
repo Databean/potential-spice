@@ -15,6 +15,7 @@ public class MegamanController : MonoBehaviour {
 	
 	// Update is called once per frame
 	public void Update() {
+		GetComponent<Animator>().SetBool("grounded", canJump);
 		GetComponent<Animator>().SetFloat("horizontalVelocity", rigidbody2D.velocity.x);
 
 		if(canJump) {
