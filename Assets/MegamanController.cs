@@ -41,7 +41,7 @@ public class MegamanController : MonoBehaviour {
 					rigidbody2D.velocity = Vector2.right * -maxVel;
 				}
 			} else {
-				rigidbody2D.AddForce(new Vector2(impulse * rigidbody2D.mass, 0), 0);
+				rigidbody2D.AddForce(new Vector2(impulse * rigidbody2D.mass, 0));
 			}
 		}
 	}
