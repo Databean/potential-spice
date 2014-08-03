@@ -1,6 +1,106 @@
 fileFormatVersion: 2
 guid: 55a35501762476446bbff715e354bf02
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: mm1to6_0
+    21300002: mm1to6_1
+    21300004: mm1to6_2
+    21300006: mm1to6_3
+    21300008: mm1to6_4
+    21300010: mm1to6_5
+    21300012: mm1to6_6
+    21300014: mm1to6_7
+    21300016: mm1to6_8
+    21300018: mm1to6_9
+    21300020: mm1to6_10
+    21300022: mm1to6_11
+    21300024: mm1to6_12
+    21300026: mm1to6_13
+    21300028: mm1to6_14
+    21300030: mm1to6_15
+    21300032: mm1to6_16
+    21300034: mm1to6_17
+    21300036: mm1to6_18
+    21300038: mm1to6_19
+    21300040: mm1to6_20
+    21300042: mm1to6_21
+    21300044: mm1to6_22
+    21300046: mm1to6_23
+    21300048: mm1to6_24
+    21300050: mm1to6_25
+    21300052: mm1to6_26
+    21300054: mm1to6_27
+    21300056: mm1to6_28
+    21300058: mm1to6_29
+    21300060: mm1to6_30
+    21300062: mm1to6_31
+    21300064: mm1to6_32
+    21300066: mm1to6_33
+    21300068: mm1to6_34
+    21300070: mm1to6_35
+    21300072: mm1to6_36
+    21300074: mm1to6_37
+    21300076: mm1to6_38
+    21300078: mm1to6_39
+    21300080: mm1to6_40
+    21300082: mm1to6_41
+    21300084: mm1to6_42
+    21300086: mm1to6_43
+    21300088: mm1to6_44
+    21300090: mm1to6_45
+    21300092: mm1to6_46
+    21300094: mm1to6_47
+    21300096: mm1to6_48
+    21300098: mm1to6_49
+    21300100: mm1to6_50
+    21300102: mm1to6_51
+    21300104: mm1to6_52
+    21300106: mm1to6_53
+    21300108: mm1to6_54
+    21300110: mm1to6_55
+    21300112: mm1to6_56
+    21300114: mm1to6_57
+    21300116: mm1to6_58
+    21300118: mm1to6_59
+    21300120: mm1to6_60
+    21300122: mm1to6_61
+    21300124: mm1to6_62
+    21300126: mm1to6_63
+    21300128: mm1to6_64
+    21300130: mm1to6_65
+    21300132: mm1to6_66
+    21300134: mm1to6_67
+    21300136: mm1to6_68
+    21300138: mm1to6_69
+    21300140: mm1to6_70
+    21300142: mm1to6_71
+    21300144: mm1to6_72
+    21300146: mm1to6_73
+    21300148: mm1to6_74
+    21300150: mm1to6_75
+    21300152: mm1to6_76
+    21300154: mm1to6_77
+    21300156: mm1to6_78
+    21300158: mm1to6_79
+    21300160: mm1to6_80
+    21300162: mm1to6_81
+    21300164: mm1to6_82
+    21300166: mm1to6_83
+    21300168: mm1to6_84
+    21300170: mm1to6_85
+    21300172: mm1to6_86
+    21300174: mm1to6_87
+    21300176: mm1to6_88
+    21300178: mm1to6_89
+    21300180: mm1to6_90
+    21300182: mm1to6_91
+    21300184: mm1to6_92
+    21300186: mm1to6_93
+    21300188: mm1to6_94
+    21300190: mm1to6_95
+    21300192: mm1to6_96
+    21300194: mm1to6_97
+    21300196: mm1to6_98
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -35,6 +135,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 10
   alphaIsTransparency: 1
   textureType: 8
@@ -54,6 +155,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_1
       rect:
         serializedVersion: 2
@@ -63,6 +165,7 @@ TextureImporter:
         height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_2
       rect:
         serializedVersion: 2
@@ -72,6 +175,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_3
       rect:
         serializedVersion: 2
@@ -81,6 +185,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_4
       rect:
         serializedVersion: 2
@@ -90,6 +195,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_5
       rect:
         serializedVersion: 2
@@ -99,6 +205,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_6
       rect:
         serializedVersion: 2
@@ -108,6 +215,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_7
       rect:
         serializedVersion: 2
@@ -117,6 +225,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_8
       rect:
         serializedVersion: 2
@@ -126,6 +235,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_9
       rect:
         serializedVersion: 2
@@ -135,6 +245,7 @@ TextureImporter:
         height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_10
       rect:
         serializedVersion: 2
@@ -144,6 +255,7 @@ TextureImporter:
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_11
       rect:
         serializedVersion: 2
@@ -153,6 +265,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_12
       rect:
         serializedVersion: 2
@@ -162,6 +275,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_13
       rect:
         serializedVersion: 2
@@ -171,6 +285,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_14
       rect:
         serializedVersion: 2
@@ -180,6 +295,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_15
       rect:
         serializedVersion: 2
@@ -189,6 +305,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_16
       rect:
         serializedVersion: 2
@@ -198,6 +315,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_17
       rect:
         serializedVersion: 2
@@ -207,6 +325,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_18
       rect:
         serializedVersion: 2
@@ -216,6 +335,7 @@ TextureImporter:
         height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_19
       rect:
         serializedVersion: 2
@@ -225,6 +345,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_20
       rect:
         serializedVersion: 2
@@ -234,6 +355,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_21
       rect:
         serializedVersion: 2
@@ -243,6 +365,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_22
       rect:
         serializedVersion: 2
@@ -252,6 +375,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_23
       rect:
         serializedVersion: 2
@@ -261,6 +385,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_24
       rect:
         serializedVersion: 2
@@ -270,6 +395,7 @@ TextureImporter:
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_25
       rect:
         serializedVersion: 2
@@ -279,6 +405,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_26
       rect:
         serializedVersion: 2
@@ -288,6 +415,7 @@ TextureImporter:
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_27
       rect:
         serializedVersion: 2
@@ -297,6 +425,7 @@ TextureImporter:
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_28
       rect:
         serializedVersion: 2
@@ -306,6 +435,7 @@ TextureImporter:
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_29
       rect:
         serializedVersion: 2
@@ -315,6 +445,7 @@ TextureImporter:
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_30
       rect:
         serializedVersion: 2
@@ -324,6 +455,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_31
       rect:
         serializedVersion: 2
@@ -333,6 +465,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_32
       rect:
         serializedVersion: 2
@@ -342,6 +475,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_33
       rect:
         serializedVersion: 2
@@ -351,6 +485,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_34
       rect:
         serializedVersion: 2
@@ -360,6 +495,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_35
       rect:
         serializedVersion: 2
@@ -369,6 +505,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_36
       rect:
         serializedVersion: 2
@@ -378,6 +515,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_37
       rect:
         serializedVersion: 2
@@ -387,6 +525,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_38
       rect:
         serializedVersion: 2
@@ -396,6 +535,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_39
       rect:
         serializedVersion: 2
@@ -405,6 +545,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_40
       rect:
         serializedVersion: 2
@@ -414,6 +555,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_41
       rect:
         serializedVersion: 2
@@ -423,6 +565,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_42
       rect:
         serializedVersion: 2
@@ -432,6 +575,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_43
       rect:
         serializedVersion: 2
@@ -441,6 +585,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_44
       rect:
         serializedVersion: 2
@@ -450,6 +595,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_45
       rect:
         serializedVersion: 2
@@ -459,6 +605,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_46
       rect:
         serializedVersion: 2
@@ -468,6 +615,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_47
       rect:
         serializedVersion: 2
@@ -477,6 +625,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_48
       rect:
         serializedVersion: 2
@@ -486,6 +635,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_49
       rect:
         serializedVersion: 2
@@ -495,6 +645,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_50
       rect:
         serializedVersion: 2
@@ -504,6 +655,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_51
       rect:
         serializedVersion: 2
@@ -513,6 +665,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_52
       rect:
         serializedVersion: 2
@@ -522,6 +675,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_53
       rect:
         serializedVersion: 2
@@ -531,6 +685,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_54
       rect:
         serializedVersion: 2
@@ -540,6 +695,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_55
       rect:
         serializedVersion: 2
@@ -549,6 +705,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_56
       rect:
         serializedVersion: 2
@@ -558,6 +715,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_57
       rect:
         serializedVersion: 2
@@ -567,6 +725,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_58
       rect:
         serializedVersion: 2
@@ -576,6 +735,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_59
       rect:
         serializedVersion: 2
@@ -585,6 +745,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_60
       rect:
         serializedVersion: 2
@@ -594,6 +755,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_61
       rect:
         serializedVersion: 2
@@ -603,6 +765,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_62
       rect:
         serializedVersion: 2
@@ -612,6 +775,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_63
       rect:
         serializedVersion: 2
@@ -621,6 +785,7 @@ TextureImporter:
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_64
       rect:
         serializedVersion: 2
@@ -630,6 +795,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_65
       rect:
         serializedVersion: 2
@@ -639,6 +805,7 @@ TextureImporter:
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_66
       rect:
         serializedVersion: 2
@@ -648,6 +815,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_67
       rect:
         serializedVersion: 2
@@ -657,6 +825,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_68
       rect:
         serializedVersion: 2
@@ -666,6 +835,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_69
       rect:
         serializedVersion: 2
@@ -675,6 +845,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_70
       rect:
         serializedVersion: 2
@@ -684,6 +855,7 @@ TextureImporter:
         height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_71
       rect:
         serializedVersion: 2
@@ -693,6 +865,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_72
       rect:
         serializedVersion: 2
@@ -702,6 +875,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_73
       rect:
         serializedVersion: 2
@@ -711,6 +885,7 @@ TextureImporter:
         height: 34
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_74
       rect:
         serializedVersion: 2
@@ -720,6 +895,7 @@ TextureImporter:
         height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_75
       rect:
         serializedVersion: 2
@@ -729,6 +905,7 @@ TextureImporter:
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_76
       rect:
         serializedVersion: 2
@@ -738,6 +915,7 @@ TextureImporter:
         height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_77
       rect:
         serializedVersion: 2
@@ -747,6 +925,7 @@ TextureImporter:
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_78
       rect:
         serializedVersion: 2
@@ -756,6 +935,7 @@ TextureImporter:
         height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_79
       rect:
         serializedVersion: 2
@@ -765,6 +945,7 @@ TextureImporter:
         height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_80
       rect:
         serializedVersion: 2
@@ -774,6 +955,7 @@ TextureImporter:
         height: 26
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_81
       rect:
         serializedVersion: 2
@@ -783,6 +965,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_82
       rect:
         serializedVersion: 2
@@ -792,6 +975,7 @@ TextureImporter:
         height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_83
       rect:
         serializedVersion: 2
@@ -801,6 +985,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_84
       rect:
         serializedVersion: 2
@@ -810,6 +995,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_85
       rect:
         serializedVersion: 2
@@ -819,6 +1005,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_86
       rect:
         serializedVersion: 2
@@ -828,6 +1015,7 @@ TextureImporter:
         height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_87
       rect:
         serializedVersion: 2
@@ -837,6 +1025,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_88
       rect:
         serializedVersion: 2
@@ -846,6 +1035,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_89
       rect:
         serializedVersion: 2
@@ -855,6 +1045,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_90
       rect:
         serializedVersion: 2
@@ -864,6 +1055,7 @@ TextureImporter:
         height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_91
       rect:
         serializedVersion: 2
@@ -873,6 +1065,7 @@ TextureImporter:
         height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_92
       rect:
         serializedVersion: 2
@@ -882,6 +1075,7 @@ TextureImporter:
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_93
       rect:
         serializedVersion: 2
@@ -891,6 +1085,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_94
       rect:
         serializedVersion: 2
@@ -900,6 +1095,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_95
       rect:
         serializedVersion: 2
@@ -909,6 +1105,7 @@ TextureImporter:
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_96
       rect:
         serializedVersion: 2
@@ -918,6 +1115,7 @@ TextureImporter:
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_97
       rect:
         serializedVersion: 2
@@ -927,6 +1125,7 @@ TextureImporter:
         height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: mm1to6_98
       rect:
         serializedVersion: 2
@@ -936,5 +1135,6 @@ TextureImporter:
         height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
